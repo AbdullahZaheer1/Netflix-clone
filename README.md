@@ -1,23 +1,9 @@
-# BORCELLE Store Website
-This is a Website of Store. I am make Following Section in this Website.
-
-**HOME**
-
-**SHOW**
-
-**CASE** 
-
-**ABOUT** 
-
-**COURSES** 
-
-**SHOP** 
-
-**CONTACT**.
+# Netflix Clone Website
+This is a Website of Netflix Clone (Movies Website).
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Store-Website/
+**Live Demo** - https://codecraft-beta.github.io/Netflix-clone/
 
 # CodeCraft-Beta
 
