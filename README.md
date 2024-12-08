@@ -5,6 +5,8 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Netflix-clone/
 
+**Website View** - https://designcraft.odoo.com/netflix-clone
+
 # CodeCraft-Beta
 
 This Github Account is Made Website Templates, Everyone Preview any Website Template and also Download the Templates.
