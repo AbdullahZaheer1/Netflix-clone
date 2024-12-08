@@ -23,11 +23,13 @@ Thankyou.
 
 **Whatsapp** - https://whatsapp.com/channel/0029Vamb48s8F2pC1zM2Gv0Z
 
-**Website** - Coming Soon
+**Telegram**  - https://t.me/codecraft7
 
-**Instagram** - Coming Soon
+**Instagram** - https://www.instagram.com/codecraft147/
 
-**Telegram** - Coming Soon
+**TikTok** - https://www.tiktok.com/@codecraft147
+
+**Website** - https://designcraft.odoo.com/
 
 # Introduction
 
@@ -37,3 +39,5 @@ I am a Developer based in Multan, Pakistan. I am a Computer Science Undergraduat
 
 # Output
 ![Image](https://github.com/CodeCraft-Beta/My-Portfolio/blob/main/Screenshot%202024-11-24%20172211.png?raw=true)
+
+
