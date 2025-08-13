@@ -3,11 +3,7 @@ This is a Website of Netflix Clone (Movies Website).
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Netflix-clone/
-
-**Website View** - https://designcraft.odoo.com/netflix-clone
-
-# CodeCraft-Beta
+# AbdullahZaheer1
 
 This Github Account is Made Website Templates, Everyone Preview any Website Template and also Download the Templates.
 
@@ -19,7 +15,7 @@ Thankyou.
 
 # Join Us
 
-**GitHub** - https://github.com/CodeCraft-Beta
+**GitHub** - https://github.com/AbdullahZaheer1
 
 **YouTube** - https://www.youtube.com/@codecraftchannal
 
@@ -31,7 +27,7 @@ Thankyou.
 
 **TikTok** - https://www.tiktok.com/@codecraft147
 
-**Website** - https://designcraft.odoo.com/
+**Website** - https://www.codecrafts.site/
 
 # Introduction
 
@@ -40,6 +36,6 @@ Hello Everyone, My name is Abdullah Zaheer. I am making this Website Template. Y
 I am a Developer based in Multan, Pakistan. I am a Computer Science Undergraduate from Emerson University Multan. I am very passionate about improving my coding skills developing websites. I build WebApps and Websites using HTML, CSS, JS. Working for myself to improve my skills. Love to build Web clones.
 
 # Output
-![Image](https://github.com/CodeCraft-Beta/Netflix-clone/blob/main/Website%20Front%20Page%20.png?raw=true)
+![Image](https://github.com/AbdullahZaheer1/Netflix-clone/blob/main/Website%20Front%20Page%20.png?raw=true)
 
 
